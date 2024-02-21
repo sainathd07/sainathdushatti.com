@@ -3,7 +3,8 @@ import Title from './components/Title'
 
 const App = () => {
   return (
-    <Title />
+    <div className='lg:max-w-[50%] lg:m-auto mx-2 '><Title /></div>
+    
   )
 }
 
