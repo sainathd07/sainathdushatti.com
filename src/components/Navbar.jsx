@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <div>
-        <ul className='font-body font-medium text-[25px] text-[#4A4A4A] lg:flex-row lg:justify-between lg:items-center hidden lg:flex'>
+        <ul className='mb-[30px] font-body font-medium text-[25px] text-[#4A4A4A] lg:flex-row lg:justify-between lg:items-center hidden lg:flex'>
             <li>
               <a href='/home'>Home</a>
             </li>
