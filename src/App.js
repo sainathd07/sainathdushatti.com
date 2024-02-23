@@ -10,7 +10,11 @@ import Home from './pages/Home'
 
 function App() {
 let component
+console.log(window.location.pathname)
 switch (window.location.pathname) {
+  case "/":
+    component = <Home />
+    break
   case "/home":
     component = <Home />
     break
