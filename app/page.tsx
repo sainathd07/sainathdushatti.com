@@ -7,11 +7,10 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        {`Hey, I'm Sainath. I've been a software developer since 2020 and have been creating websites since 2018. This is my place on the internet to share whatever I want.`}
+        <br />
+        <br />
+        {`At present I am working as a Faculty at Youngstown State University.`}
       </p>
       <div className="my-8">
         <BlogPosts />
