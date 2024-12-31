@@ -9,7 +9,7 @@ export const SITE: Site = {
 };
 
 export const HOME: Metadata = {
-  TITLE: "Sainath Dushatti",
+  TITLE: "Home",
   DESCRIPTION: "A personal website and blog by Sainath Dushatti.",
 };
 
